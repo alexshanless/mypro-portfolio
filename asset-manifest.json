@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.02e63f65.chunk.css",
+    "main.js": "/static/js/main.504417ee.chunk.js",
+    "main.js.map": "/static/js/main.504417ee.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5e2f8f09.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5e2f8f09.js.map",
+    "static/js/2.ed1d1960.chunk.js": "/static/js/2.ed1d1960.chunk.js",
+    "static/js/2.ed1d1960.chunk.js.map": "/static/js/2.ed1d1960.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d2bb88dbca2f532d2ca9bcb9deae15cf.js": "/precache-manifest.d2bb88dbca2f532d2ca9bcb9deae15cf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.02e63f65.chunk.css.map": "/static/css/main.02e63f65.chunk.css.map",
+    "static/js/2.ed1d1960.chunk.js.LICENSE.txt": "/static/js/2.ed1d1960.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/static/media/avatar.79f2455f.png",
+    "static/media/champleag.PNG": "/static/media/champleag.e3c11551.PNG",
+    "static/media/covidTracker.PNG": "/static/media/covidTracker.77287dc9.PNG",
+    "static/media/peterson.PNG": "/static/media/peterson.2889f878.PNG",
+    "static/media/App.css": "/static/media/semi-opened-laptop-computer-turned-on-on-table-2047905.c0e00514.jpg",
+    "static/media/under-construction-signage-on-laptop-keyboard-211122.jpg": "/static/media/under-construction-signage-on-laptop-keyboard-211122.e30e9fb1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e2f8f09.js",
+    "static/js/2.ed1d1960.chunk.js",
+    "static/css/main.02e63f65.chunk.css",
+    "static/js/main.504417ee.chunk.js"
+  ]
+}
