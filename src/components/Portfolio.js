@@ -12,13 +12,11 @@ import {
   Typography,
 } from "@material-ui/core";
 import Navbar from "./Navbar";
-import project1 from "../images/html-css-javascript-lg.jpg";
+import project1 from "../images/champleag.PNG";
+import project2 from "../images/covidTracker.PNG";
+import project3 from "../images/peterson.PNG";
 
 const useStyles = makeStyles({
-  mainContainer: {
-    background: "#233",
-    height: "100%",
-  },
   cardContainer: {
     maxWidth: 345,
     margin: "3rem",
@@ -29,7 +27,7 @@ const useStyles = makeStyles({
 const Portfolio = () => {
   const classes = useStyles();
   return (
-    <Box component="div" className={classes.mainContainer}>
+    <Box component="div" style={{ background: "#233", height: "100vh" }}>
       <Navbar />
       <Grid container justify="center" alignItems="center">
         {/*PROJECT 1*/}
@@ -44,18 +42,26 @@ const Portfolio = () => {
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
-                  Project 1
+                Championship League
                 </Typography>
                 <Typography variant="body2" color="textSecondary" component="p">
-                  somet text
+                  Championship League tracker built with vanilla js
                 </Typography>
               </CardContent>
             </CardActionArea>
             <CardActions>
-              <Button size="small" color="primary">
+              <Button
+                size="small"
+                color="primary"
+                href="http://devshan.com/Champ-Leag-Tracker/"
+              >
                 Share
               </Button>
-              <Button size="small" color="primary">
+              <Button
+                size="small"
+                color="primary"
+                href="http://devshan.com/Champ-Leag-Tracker/"
+              >
                 Live Demo
               </Button>
             </CardActions>
@@ -68,14 +74,14 @@ const Portfolio = () => {
                 component="img"
                 alt="Project 1"
                 height="140"
-                image={project1}
+                image={project2}
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
-                  Project 2
+                COVID 19 tracker
                 </Typography>
                 <Typography variant="body2" color="textSecondary" component="p">
-                  somet other text about project 2
+                  
                 </Typography>
               </CardContent>
             </CardActionArea>
@@ -96,14 +102,14 @@ const Portfolio = () => {
                 component="img"
                 alt="Project 1"
                 height="140"
-                image={project1}
+                image={project3}
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
-                  Project 3
+                  Peterson Fruit Company Website
                 </Typography>
                 <Typography variant="body2" color="textSecondary" component="p">
-                  somet text bout project 3
+                  
                 </Typography>
               </CardContent>
             </CardActionArea>
@@ -111,7 +117,11 @@ const Portfolio = () => {
               <Button size="small" color="primary">
                 Share
               </Button>
-              <Button size="small" color="primary">
+              <Button
+                size="small"
+                color="primary"
+                href="http://devshan.com/peterson/"
+              >
                 Live Demo
               </Button>
             </CardActions>

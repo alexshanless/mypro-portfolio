@@ -3,7 +3,7 @@ import { Route } from "react-router-dom";
 import CssBaseLine from "@material-ui/core/CssBaseLine";
 import Home from "./components/index";
 import "./App.css";
-import Resume from "./components/Resume";
+import Resume from "./components/Resume.jsx";
 import Portfolio from "./components/Portfolio";
 import Contacts from "./components/Contacts";
 
