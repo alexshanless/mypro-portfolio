@@ -8,6 +8,7 @@ import Portfolio from "./components/Portfolio";
 import Contacts from "./components/Contacts";
 
 function App() {
+  debugger;
   return (
     <>
       <CssBaseLine />
