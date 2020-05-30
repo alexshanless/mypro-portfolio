@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mypro-portfolio/static/css/main.325e08fb.chunk.css",
-    "main.js": "/mypro-portfolio/static/js/main.504417ee.chunk.js",
-    "main.js.map": "/mypro-portfolio/static/js/main.504417ee.chunk.js.map",
-    "runtime-main.js": "/mypro-portfolio/static/js/runtime-main.31593d15.js",
-    "runtime-main.js.map": "/mypro-portfolio/static/js/runtime-main.31593d15.js.map",
-    "static/js/2.ed1d1960.chunk.js": "/mypro-portfolio/static/js/2.ed1d1960.chunk.js",
-    "static/js/2.ed1d1960.chunk.js.map": "/mypro-portfolio/static/js/2.ed1d1960.chunk.js.map",
+    "main.js": "/mypro-portfolio/static/js/main.f5422989.chunk.js",
+    "main.js.map": "/mypro-portfolio/static/js/main.f5422989.chunk.js.map",
+    "runtime-main.js": "/mypro-portfolio/static/js/runtime-main.1f988f2f.js",
+    "runtime-main.js.map": "/mypro-portfolio/static/js/runtime-main.1f988f2f.js.map",
+    "static/js/2.f0600ceb.chunk.js": "/mypro-portfolio/static/js/2.f0600ceb.chunk.js",
+    "static/js/2.f0600ceb.chunk.js.map": "/mypro-portfolio/static/js/2.f0600ceb.chunk.js.map",
     "index.html": "/mypro-portfolio/index.html",
-    "precache-manifest.8b81d4ca339be1a3fd9e7e94d0bcb709.js": "/mypro-portfolio/precache-manifest.8b81d4ca339be1a3fd9e7e94d0bcb709.js",
+    "precache-manifest.219744546b8a7b2ec08f6678eea24b60.js": "/mypro-portfolio/precache-manifest.219744546b8a7b2ec08f6678eea24b60.js",
     "service-worker.js": "/mypro-portfolio/service-worker.js",
     "static/css/main.325e08fb.chunk.css.map": "/mypro-portfolio/static/css/main.325e08fb.chunk.css.map",
-    "static/js/2.ed1d1960.chunk.js.LICENSE.txt": "/mypro-portfolio/static/js/2.ed1d1960.chunk.js.LICENSE.txt",
+    "static/js/2.f0600ceb.chunk.js.LICENSE.txt": "/mypro-portfolio/static/js/2.f0600ceb.chunk.js.LICENSE.txt",
     "static/media/avatar.png": "/mypro-portfolio/static/media/avatar.79f2455f.png",
     "static/media/champleag.PNG": "/mypro-portfolio/static/media/champleag.e3c11551.PNG",
     "static/media/covidTracker.PNG": "/mypro-portfolio/static/media/covidTracker.77287dc9.PNG",
@@ -20,9 +20,9 @@
     "static/media/under-construction-signage-on-laptop-keyboard-211122.jpg": "/mypro-portfolio/static/media/under-construction-signage-on-laptop-keyboard-211122.e30e9fb1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.31593d15.js",
-    "static/js/2.ed1d1960.chunk.js",
+    "static/js/runtime-main.1f988f2f.js",
+    "static/js/2.f0600ceb.chunk.js",
     "static/css/main.325e08fb.chunk.css",
-    "static/js/main.504417ee.chunk.js"
+    "static/js/main.f5422989.chunk.js"
   ]
 }
