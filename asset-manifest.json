@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/mypro-portfolio/static/css/main.325e08fb.chunk.css",
-    "main.js": "/mypro-portfolio/static/js/main.68e22456.chunk.js",
-    "main.js.map": "/mypro-portfolio/static/js/main.68e22456.chunk.js.map",
-    "runtime-main.js": "/mypro-portfolio/static/js/runtime-main.1f988f2f.js",
-    "runtime-main.js.map": "/mypro-portfolio/static/js/runtime-main.1f988f2f.js.map",
-    "static/js/2.922f9b7e.chunk.js": "/mypro-portfolio/static/js/2.922f9b7e.chunk.js",
-    "static/js/2.922f9b7e.chunk.js.map": "/mypro-portfolio/static/js/2.922f9b7e.chunk.js.map",
-    "index.html": "/mypro-portfolio/index.html",
-    "precache-manifest.57bf399613105f2682a9e47776892367.js": "/mypro-portfolio/precache-manifest.57bf399613105f2682a9e47776892367.js",
-    "service-worker.js": "/mypro-portfolio/service-worker.js",
-    "static/css/main.325e08fb.chunk.css.map": "/mypro-portfolio/static/css/main.325e08fb.chunk.css.map",
-    "static/js/2.922f9b7e.chunk.js.LICENSE.txt": "/mypro-portfolio/static/js/2.922f9b7e.chunk.js.LICENSE.txt",
-    "static/media/avatar.png": "/mypro-portfolio/static/media/avatar.79f2455f.png",
-    "static/media/champleag.PNG": "/mypro-portfolio/static/media/champleag.e3c11551.PNG",
-    "static/media/covidTracker.PNG": "/mypro-portfolio/static/media/covidTracker.77287dc9.PNG",
-    "static/media/peterson.PNG": "/mypro-portfolio/static/media/peterson.2889f878.PNG",
-    "static/media/App.css": "/mypro-portfolio/static/media/semi-opened-laptop-computer-turned-on-on-table-2047905.c0e00514.jpg",
-    "static/media/under-construction-signage-on-laptop-keyboard-211122.jpg": "/mypro-portfolio/static/media/under-construction-signage-on-laptop-keyboard-211122.e30e9fb1.jpg"
+    "main.css": "/devshan.com/static/css/main.6ce72b60.chunk.css",
+    "main.js": "/devshan.com/static/js/main.cc242488.chunk.js",
+    "main.js.map": "/devshan.com/static/js/main.cc242488.chunk.js.map",
+    "runtime-main.js": "/devshan.com/static/js/runtime-main.d3b8ec0e.js",
+    "runtime-main.js.map": "/devshan.com/static/js/runtime-main.d3b8ec0e.js.map",
+    "static/js/2.922f9b7e.chunk.js": "/devshan.com/static/js/2.922f9b7e.chunk.js",
+    "static/js/2.922f9b7e.chunk.js.map": "/devshan.com/static/js/2.922f9b7e.chunk.js.map",
+    "index.html": "/devshan.com/index.html",
+    "precache-manifest.a219a33fe0c7c91a550d27140f1165ac.js": "/devshan.com/precache-manifest.a219a33fe0c7c91a550d27140f1165ac.js",
+    "service-worker.js": "/devshan.com/service-worker.js",
+    "static/css/main.6ce72b60.chunk.css.map": "/devshan.com/static/css/main.6ce72b60.chunk.css.map",
+    "static/js/2.922f9b7e.chunk.js.LICENSE.txt": "/devshan.com/static/js/2.922f9b7e.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/devshan.com/static/media/avatar.79f2455f.png",
+    "static/media/champleag.PNG": "/devshan.com/static/media/champleag.e3c11551.PNG",
+    "static/media/covidTracker.PNG": "/devshan.com/static/media/covidTracker.77287dc9.PNG",
+    "static/media/peterson.PNG": "/devshan.com/static/media/peterson.2889f878.PNG",
+    "static/media/App.css": "/devshan.com/static/media/semi-opened-laptop-computer-turned-on-on-table-2047905.c0e00514.jpg",
+    "static/media/under-construction-signage-on-laptop-keyboard-211122.jpg": "/devshan.com/static/media/under-construction-signage-on-laptop-keyboard-211122.e30e9fb1.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f988f2f.js",
+    "static/js/runtime-main.d3b8ec0e.js",
     "static/js/2.922f9b7e.chunk.js",
-    "static/css/main.325e08fb.chunk.css",
-    "static/js/main.68e22456.chunk.js"
+    "static/css/main.6ce72b60.chunk.css",
+    "static/js/main.cc242488.chunk.js"
   ]
 }
