@@ -5,7 +5,7 @@ import Home from './components/index';
 import './App.css';
 import Resume from "./components/Resume"
 import Portfolio from './components/Portfolio';
-import Contact from './components/Contact';
+import Contacts from './components/Contacts';
 import NavBar from './components/Navbar';
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
       <Route exact path={process.env.PUBLIC_URL} component={Home} />
       <Route path="/resume" component={Resume} />
       <Route path="/portfolio" component={Portfolio} />
-      <Route path="/contact" component={Contact} />
+      <Route path="/contacts" component={Contacts} />
       {/* <Route component={Home} /> */}
     </>
 
