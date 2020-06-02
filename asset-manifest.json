@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/devshan.com/static/css/main.6ce72b60.chunk.css",
-    "main.js": "/devshan.com/static/js/main.cc242488.chunk.js",
-    "main.js.map": "/devshan.com/static/js/main.cc242488.chunk.js.map",
+    "main.js": "/devshan.com/static/js/main.aab23d33.chunk.js",
+    "main.js.map": "/devshan.com/static/js/main.aab23d33.chunk.js.map",
     "runtime-main.js": "/devshan.com/static/js/runtime-main.d3b8ec0e.js",
     "runtime-main.js.map": "/devshan.com/static/js/runtime-main.d3b8ec0e.js.map",
     "static/js/2.922f9b7e.chunk.js": "/devshan.com/static/js/2.922f9b7e.chunk.js",
     "static/js/2.922f9b7e.chunk.js.map": "/devshan.com/static/js/2.922f9b7e.chunk.js.map",
     "index.html": "/devshan.com/index.html",
-    "precache-manifest.a219a33fe0c7c91a550d27140f1165ac.js": "/devshan.com/precache-manifest.a219a33fe0c7c91a550d27140f1165ac.js",
+    "precache-manifest.7fe13b3f90ee7dd664b40247aea3d384.js": "/devshan.com/precache-manifest.7fe13b3f90ee7dd664b40247aea3d384.js",
     "service-worker.js": "/devshan.com/service-worker.js",
     "static/css/main.6ce72b60.chunk.css.map": "/devshan.com/static/css/main.6ce72b60.chunk.css.map",
     "static/js/2.922f9b7e.chunk.js.LICENSE.txt": "/devshan.com/static/js/2.922f9b7e.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.d3b8ec0e.js",
     "static/js/2.922f9b7e.chunk.js",
     "static/css/main.6ce72b60.chunk.css",
-    "static/js/main.cc242488.chunk.js"
+    "static/js/main.aab23d33.chunk.js"
   ]
 }
