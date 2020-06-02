@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       {/* <CssBaseLine /> */}
-      <Route exact path="/" component={Home} />
+      <Route exact path={process.env.PUBLIC_URL} component={Home} />
       <Route path="/resume" component={Resume} />
       <Route path="/Portfolio" component={Portfolio} />
       <Route path="/contacts" component={Contacts} />
